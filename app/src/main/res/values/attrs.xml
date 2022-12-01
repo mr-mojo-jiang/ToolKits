@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--用于设置InfoTextView的信息描述相关参数，如：名称：**，中名称的参数  -->
+
+    <declare-styleable name="SwitchButton">
+        <attr name="onColor" format="color|reference"/>
+        <attr name="spotColor" format="color|reference"/>
+        <attr name="offColor" format="color|reference"/>
+        <attr name="animate" format="boolean"/>
+        <attr name="asDefaultOn" format="boolean"/>
+    </declare-styleable>
+</resources>

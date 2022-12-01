@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/projects/example/AarModel/app/src/main/res/drawable/bg_entropy_list_item.xml" value="0.22395833333333334" />
+        <entry key="..\:/Android/projects/example/AarModel/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android/projects/example/AarModel/app/src/main/res/layout/activity_main2.xml" value="0.14895833333333333" />
+        <entry key="..\:/Android/projects/example/AarModel/toolkit/src/main/res/drawable/bg_progress_loading.xml" value="0.3840653728294178" />
+        <entry key="..\:/Android/projects/example/AarModel/toolkit/src/main/res/layout/activity_qr_code.xml" value="0.15555555555555556" />
+        <entry key="..\:/Android/projects/example/AarModel/toolkit/src/main/res/layout/view_action_bar.xml" value="0.25885416666666666" />
+        <entry key="..\:/Android/projects/example/AarModel/toolkit/src/main/res/layout/view_bottom_picker.xml" value="0.2722222222222222" />
+        <entry key="..\:/Android/projects/example/AarModel/toolkit/src/main/res/layout/view_bottom_pop.xml" value="0.35462962962962963" />
+        <entry key="..\:/Android/projects/example/AarModel/toolkit/src/main/res/layout/view_date_picker.xml" value="0.1" />
+        <entry key="..\:/Android/projects/example/AarModel/toolkit/src/main/res/layout/view_date_range.xml" value="0.1" />
+        <entry key="..\:/Android/projects/example/AarModel/toolkit/src/main/res/layout/view_downloading.xml" value="0.3515625" />
+        <entry key="..\:/Android/projects/example/AarModel/toolkit/src/main/res/layout/view_image_viewpager.xml" value="0.1" />
+        <entry key="..\:/Android/projects/example/AarModel/toolkit/src/main/res/layout/view_list_bottom.xml" value="0.12222222222222222" />
+        <entry key="..\:/Android/projects/example/AarModel/toolkit/src/main/res/layout/view_picker.xml" value="0.1" />
+        <entry key="..\:/Android/projects/example/AarModel/toolkit/src/main/res/layout/view_pop_spinner_item.xml" value="0.1" />
+        <entry key="..\:/Android/projects/example/AarModel/toolkit/src/main/res/layout/view_version_message.xml" value="0.30885416666666665" />
+        <entry key="..\:/Android/projects/example/AarModel/toolkit/src/main/res/layout/view_wait_dialog.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
